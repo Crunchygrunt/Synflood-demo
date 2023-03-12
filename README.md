@@ -1,5 +1,5 @@
 # Packet Sniffing & Synflood Detection using Wireshark
-
+This is a documentation centric mini project for a college subject.
 ## ABSTRACT
                                                                   
 Packet sniffing is a method of tapping each packet as it flows across the network; i.e., it is a technique in which a user sniffs data belonging to other users of the network. \
